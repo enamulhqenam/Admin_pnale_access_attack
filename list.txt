@@ -1,0 +1,15 @@
+1.http://lwmc.com.pk/admin/admin.php
+2.http://indiapakistantrade.org/admin/dashboard.php
+3.http://radmandemo.dmasoftlab.com/admin.php?cont=list_users
+4.http://www.riadblueberber.com/Admin/gallery.php
+5.http://www.netcomcollege.in/admin/gallery.php
+6.https://www.abs.gov.rs/admin/index.php
+7.http://celerity.co.in/admin/login-page.php
+8.http://halexofficers.com/admin/dashboard.php
+9.https://www.cdbl.com.bd/complaints.sec.gov.bd/admin/dashboard.php
+10.http://policyrefer.com/admin/dashboard.php
+11.https://upload.apnic.net/admin/template.php
+12.https://www.univie.ac.at/ptox/uploads/fivestars/previewpackage/upload/admin/settings.php
+13.http://mpezgis.in/Admin/index.php
+14.http://brahmaputracollege.com/admin/dashboard.php
+15.http://www.airpakbd.com/admin/home.php

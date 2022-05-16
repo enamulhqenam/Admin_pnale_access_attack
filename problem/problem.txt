@@ -1,0 +1,8 @@
+1.https://parent.neverskip.com/#/auth/login
+2.http://www.royalhotelsaigon.com/admin/login.php
+3.http://www.al-flah.com/admin/index.php
+4.http://cwprs.gov.in/CustomError.aspx?aspxerrorpath=/Admin/index.aspx
+5.http://quickflyer.co.in/Admin/addnews.php
+6.https://www.dallacorte.com/admin/upload.php
+7.https://www.myomron.com/admin/image.php #You are not logged in.
+8.http://www.kishanmilk.com/admin/destroy.php
